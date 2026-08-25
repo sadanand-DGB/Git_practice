@@ -56,7 +56,6 @@ The .gitignore file is used to prevent unwanted files and directories from being
 Examples:
 
 secret.txt
-*.log
 
 
 Purpose
