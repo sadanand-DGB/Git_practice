@@ -58,12 +58,6 @@ Examples:
 secret.txt
 *.log
 
-Repository Structure
-
-Git_practice/
-├── src/
-├── .gitignore
-└── README.md
 
 Purpose
 
